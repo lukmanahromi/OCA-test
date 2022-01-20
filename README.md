@@ -1,5 +1,5 @@
 # testoca using Vue.js 
-link default menggunakan default menggunakan http://localhost:8080/
+link default menggunakan http://localhost:8080/
 
 #Cara Menggunakan, melalui terminal!
 
